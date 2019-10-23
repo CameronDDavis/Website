@@ -6,3 +6,10 @@ section {
   background-color: #FFF8DC;
   padding: 20px;
 }
+h1, footer {
+  margin-top: 20px;
+}
+a:link, a:visited {
+  color: #000;
+  text-decoration: none;
+}
