@@ -10,11 +10,18 @@ a, a:visited {
 	text-decoration: none;
 }
 nav {
-	display: table;
-	margin-left: auto;
-	margin-right: auto;
-	margin-top: 50px;
-	margin-bottom: 40px;
+        display: table;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 50px;
+        margin-bottom: 40px;
+}
+nav a, nav a:visited {
+        padding: 10px;
+        border: 1px dotted #777;
+        color: #4B0082;
+        background-color: #FFF;
+        font-weight: bold;
 }
 section {
 	background-color: #F6F6FA;
