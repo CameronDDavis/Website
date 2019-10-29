@@ -1,3 +1,6 @@
 div.outline li {
 	list-style-type: upper-roman;
 }
+div.outline li li {
+	list-style-type: upper-alpha;
+}
