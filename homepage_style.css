@@ -1,0 +1,17 @@
+ body {
+    padding: 20px;
+    margin: 20px;
+    border: 2px dotted #FFF;
+    background-color: #033;
+    color: #FFF;
+    font-family: sans-serif;
+  }
+  a {
+    color: #FFF;
+    font-style: italic;
+  }
+  a:hover {
+        color: #00F;
+        font-weight: bold;
+}
+
