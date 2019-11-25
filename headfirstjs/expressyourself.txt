@@ -1,0 +1,19 @@
+What is the result when temp is 10? 50
+
+Is this expression true or false when color has the value “pink”? false
+
+Or has the value “orange”? true
+
+What value does this compute to when name is “Martha”? Martha, you've won!
+
+When yourLevel is 2, what does this evaluate to? false
+
+When yourLevel is 5, what does this evaluate to? false
+
+When yourLevel is 7, what does this evaluate to? true
+
+Okay, level is 5, points is 30,000 and bonus is 3300. What does this evaluate to? 153300
+
+Is this expression true or false when color has the value “pink”? false
+
+Are there a few possible answers? Only one is correct. Which would you choose? orange

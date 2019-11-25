@@ -1,0 +1,22 @@
+document.write:
+
+I can insert a little HTML and text into a document.
+I'm not the most elegant way to ger a message to your users,
+but I work on every browser.
+
+console.log: 
+
+I'm just here for simple debugging purposes.
+Use me and I can write out information to a special developer's console.
+
+alert:
+
+I'll stop your user in his tracks and deliver a short message.
+the user has to click on "ok" to go further.
+
+document object model:
+
+Using me you can totally controla a web page:
+get values that a user typed in,
+alter the Html or the style,
+or update the content of your page.
