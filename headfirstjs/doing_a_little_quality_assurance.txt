@@ -1,0 +1,4 @@
+The value of humid = true
+The value of isValid = true
+The value of sendFile = true
+The value of level = 2

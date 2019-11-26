@@ -1,0 +1,4 @@
+buyIt = true 	buyIt = true
+buyIt = true 	buyIt = false
+buyIt = true 	buyIt = false
+buyIt = false 	buyIt = false
