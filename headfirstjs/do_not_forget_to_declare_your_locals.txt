@@ -1,0 +1,27 @@
+Arguments:
+1) width, height
+2) radius
+3) x, y, centerX, centerY
+
+Parameters
+1) width, height
+2) x1, y1, x2, y2
+3) r
+
+Locals:
+1) dx
+2) dy
+3) d2
+4) d
+5) area
+
+Globals:
+1) x
+2) y
+3) radius
+4) centerX
+5) centerY
+6) width
+7) height
+8) area
+9) distance

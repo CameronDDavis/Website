@@ -1,0 +1,23 @@
+Sharpen Your Pencil:
+1) "woof, woof"
+2) "woof, woof"
+3) error
+4) "woof, woof"
+5) "woof, woof"
+6) "WOOF, WOOF
+
+Code Magnets:
+function whatShallIWear(temp) {
+	if (temp < 60) {
+		console.log("Wear a jacket");
+	}
+	else if (temp < 70) {
+		console.log("Wear a sweater");
+	}
+	else {
+		console.log("Wear t-shirt");
+	}
+}
+whatShallIWear(50);
+whatShallIWear(80);
+whatShallIWear(60);

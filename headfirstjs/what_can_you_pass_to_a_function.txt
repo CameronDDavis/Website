@@ -1,0 +1,27 @@
+variables:
+1) years
+2) myDog
+3) guests
+4) defaultSound
+5) pet
+
+functions:
+1) dogYears
+2) makeTea
+3) secret
+4) speak
+
+built-in functions:
+1) console.log
+2) alert
+3) prompt
+
+arguments:
+1) myDog, 4
+2) guests, "Earl Grey"
+3) pet
+
+parameters:
+1) dogName, age
+2) cups, tea
+3) kind
