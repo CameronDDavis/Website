@@ -1,0 +1,3 @@
+var products = ["Choo Choo Chocolate", "Icy Mint", "Cake Batter", "Bubblegum"];
+var last = ______products[3]__________;
+var recent = products[last];

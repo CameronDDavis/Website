@@ -1,0 +1,13 @@
+function prequal(car) {
+	if (car.mileage > 10000) {
+		return false;
+} else if (car.year > 1960) {
+	return false;
+}
+var worthALook = prequal(cadi);
+if (worthALook) {
+	console.log("You gotta check out this " + cadi.make + "" + cadi.model;
+} else {
+	console.log("You should really pass on the " + cadi.make + "" + cadi.model);
+}
+
