@@ -1,0 +1,7 @@
+there is a ! in the play: function() if statement and it did not use this.playing at the start of the statment and in the middle of the statement.
+
+the pause: function() does not use the this. at the start of their if statement.
+
+there is no else statement for if this.playing = false
+
+there need to be this. in front of name and artist
