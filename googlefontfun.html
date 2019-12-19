@@ -4,18 +4,23 @@
     <meta charset='utf-8'> 
     <title>Web Font Project</title>
     <style>
-      @import url( "https://fonts.googleapis.com/css?family=Tangerine&effect=fire-animation|neon");
+      @import url("https://fonts.googleapis.com/css?family=Tangerine|Inconsolata|Droid+Sans&effect=fire-animation|neon");
       body {
+	color: #FFF;
         font-family: 'Tangerine', serif;
-        font-size: 48px;
-	text-shadow: 4px 4px 4px #aaa;
+        font-size: 48px;	
+	background-color: #000;
+      }
+      footer {
+	      font-family: 'Droid+Sans', serif;
+	      font-size: 18px;
       }
     </style>
   </head>
   <body>
     <div>Making the Web Beautiful!</div>
-    <div class="font-effect-fire-animation">This Font is On Fire!</div>
-    <div class="font-effect-neon">This Font is Glowing!</div>
+    <span style="font-family: 'Inconsolata', serif;"><div class="font-effect-fire-animation">This Font is On Fire!</div></span>
+    <span style="font-family: 'Droid+Sans', serif;"><div class="font-effect-neon">This Font is Glowing!</div></span>
     <footer style="text-align: center;">
   <a href="http://validator.w3.org/check?uri=https://cameronddavis.github.io/Website/googlefontfun.html">
   <strong>HTML</strong> Valid!</a>
