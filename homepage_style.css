@@ -2,10 +2,19 @@
     padding: 20px;
     margin: 20px;
     border: 2px dotted #FFF;
-    background-color: #033;
+    background-color: #060;
     color: #FFF;
-    font-family: sans-serif;
+    background-image: url(falling_snow.gif);
+      background-size: 100%;
+      background-repeat: no-repeat;
   }
+  @font-face {
+      font-family: 'SnowtopCaps';
+      src: url(snowtopcaps.oft);
+  }
+  h1, h2 {
+	  font-family: 'SnowtopCaps';
+}
   a {
     color: #FFF;
     font-style: italic;
