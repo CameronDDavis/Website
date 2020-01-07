@@ -1,12 +1,13 @@
- body {
+html {
+	background-image: url(falling_snow.gif);
+      background-size: 100%;
+      background-repeat: no-repeat;
+      }
+body {
     padding: 20px;
     margin: 20px;
     border: 2px dotted #FFF;
-    background-color: #060;
-    color: #FFF;
-    background-image: url(falling_snow.gif);
-      background-size: 100%;
-      background-repeat: no-repeat;
+    color: #FFF; 
   }
   @font-face {
       font-family: 'SnowtopCaps';
