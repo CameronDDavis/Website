@@ -1,10 +1,14 @@
+@font-face {
+	font-family: oregonfont;
+	src: url("oregon_book.ttf");
+}
 article {
    padding: 10px;
 }
 
 body {
-   font-size: 80%;
-   font-family: arial, helvetica, geneva, sans-serif;
+   font-family: oregonfont;
+   font-size: 80%; 
    border-style: solid;
    border-width: 5px;
    border-color: #d8d8d8;
@@ -22,7 +26,7 @@ footer {
 }
 
 h1 {
-   font-family: arial, helvetica, geneva, sans-serif;
+   text-shadow: 3px 3px 3px #888888;
    margin-top: 5px;
    margin-bottom: 0px;
 }
@@ -43,10 +47,22 @@ nav {
    height: 420px;
    padding-right: 24px;
    margin-right: 10px;
+   opacity: 0.8;
 }
-
+Section {
+	background-image: url(globe.png);
+	background-repeat: no-repeat;
+	background-size: contain;
+}
 .floatright {
-   float: right;
-   clear: right;
    margin: 10px;
+}
+.navlinks {
+  display: block;
+  border: 2px solid #a1a1a1;
+  padding: 2px 5px;
+  background: #add8e6;
+  border-radius: 5px;
+  text-decoration: none;
+  box-shadow: 5px 5px 5px #888888;
 }
