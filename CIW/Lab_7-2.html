@@ -5,6 +5,13 @@
 <title>HTML5 Offline Web Application API Example</title>
 
 <script src="Lab_7-2.js"></script>
+<script>
+if('serviceWorker' in navigator) {
+  navigator.serviceWorker
+           .register('Lab_7-2.js')
+           .then(function() { console.log("Service Worker Registered"); });
+}
+</script>
 <link rel="stylesheet" href="Lab_7-2.css">
 </head>
 
