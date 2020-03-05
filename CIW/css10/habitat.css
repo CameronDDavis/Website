@@ -56,7 +56,10 @@ p {
 	font-size: 35px;
 }
  
-
+video {
+	max-width: 100%;
+	max-height: 60%;
+}
 
 
 
